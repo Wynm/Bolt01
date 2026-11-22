@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OpenForge — تقرير تشغيلي</title>
+<style>
+:root { --bg:#0b1020; --card:#131a30; --line:#243052; --txt:#e8ecf8; --muted:#93a0c2;
+ --green:#22c55e; --yellow:#f59e0b; --red:#ef4444; --accent:#6366f1; }
+* { box-sizing:border-box; }
+body { margin:0; background:linear-gradient(160deg,#0b1020,#101736 60%); color:var(--txt);
+ font-family:"Segoe UI",Tahoma,system-ui,sans-serif; line-height:1.7; }
+.wrap { max-width:1100px; margin:0 auto; padding:32px 20px 60px; }
+header { background:linear-gradient(120deg,var(--accent),#8b5cf6); border-radius:18px;
+ padding:28px 30px; margin-bottom:26px; box-shadow:0 10px 40px rgba(99,102,241,.25); }
+header h1 { margin:0 0 6px; font-size:1.7rem; }
+header p { margin:0; opacity:.92; }
+.stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:14px; margin:22px 0; }
+.stat { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:16px; }
+.stat b { display:block; font-size:1.6rem; color:#a5b4fc; }
+.stat span { color:var(--muted); font-size:.85rem; }
+section { background:var(--card); border:1px solid var(--line); border-radius:16px;
+ padding:22px 24px; margin-bottom:22px; }
+h2 { margin-top:0; font-size:1.15rem; border-inline-start:4px solid var(--accent); padding-inline-start:10px; }
+table { width:100%; border-collapse:collapse; font-size:.9rem; }
+th,td { padding:10px 8px; border-bottom:1px solid var(--line); text-align:right; vertical-align:top; }
+th { color:var(--muted); font-weight:600; }
+a { color:#a5b4fc; text-decoration:none; }
+a:hover { text-decoration:underline; }
+.desc { color:var(--muted); font-size:.8rem; margin-top:3px; }
+.badge { padding:3px 9px; border-radius:999px; font-size:.78rem; font-weight:600; }
+.badge.ok { background:rgba(34,197,94,.15); color:#4ade80; }
+.badge.warn { background:rgba(245,158,11,.15); color:#fbbf24; }
+.badge.bad { background:rgba(239,68,68,.15); color:#f87171; }
+.badge.muted { background:rgba(147,160,194,.15); color:var(--muted); }
+.tag { background:#1e293b; padding:2px 8px; border-radius:6px; font-size:.75rem; color:#cbd5e1; }
+.score { background:var(--accent); color:#fff; padding:4px 10px; border-radius:10px; font-weight:700; }
+.card { background:#0f1530; border:1px solid var(--line); border-radius:12px; padding:14px 16px; margin:10px 0; }
+.card h3 { margin:0 0 8px; font-size:1rem; }
+code { background:#0b1020; padding:2px 6px; border-radius:6px; font-size:.82rem; }
+.muted { color:var(--muted); }
+footer { color:var(--muted); text-align:center; font-size:.82rem; margin-top:26px; }
+@media (max-width:700px) { table { font-size:.78rem; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+<h1>🔥 OpenForge — المسبك</h1>
+<p>تقرير تشغيلي · 2026-11-22T01:30:50+00:00 · اكتشاف، بوابة رخص، تقييم، وتجربة مؤتمتة</p>
+</header>
+<div class="stats">
+<div class="stat"><b>58</b><span>مرشّحاً مفحوصاً</span></div>
+<div class="stat"><b>54</b><span>رخصة سماحية 🟢</span></div>
+<div class="stat"><b>0</b><span>رخصة مشروطة 🟡</span></div>
+<div class="stat"><b>3</b><span>نماذج مُسبوكة 🧪</span></div>
+</div>
+<section>
+<h2>حالة المنصات</h2>
+<table><tr><th>المنصة</th><th>الحالة</th><th>التفصيل</th></tr><tr><td>gitlab</td><td>⚠️ unreachable</td><td>غير متاحة من شبكة التشغيل الحالية (URLError) — يُفعَّل تلقائياً عند الإتاحة</td></tr><tr><td>bitbucket</td><td>⚠️ unreachable</td><td>غير متاحة من شبكة التشغيل الحالية (URLError) — يُفعَّل تلقائياً عند الإتاحة</td></tr><tr><td>github</td><td>✅ reachable</td><td>متاحة — تعمل</td></tr><tr><td>npm</td><td>✅ reachable</td><td>متاحة — تعمل</td></tr></table>
+</section>
+<section>
+<h2>أفضل المرشحات</h2>
+<table>
+<tr><th>#</th><th>المشروع</th><th>المصدر</th><th>النجوم</th><th>الرخصة</th><th>آخر نشاط</th><th>الدرجة</th><th>القرار</th></tr>
+<tr>
+<td>1</td>
+<td><a href="https://github.com/affaan-m/ECC" target="_blank" rel="noopener">affaan-m/ECC</a>
+<div class="desc">The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code</div></td>
+<td><span class="tag src">github</span></td>
+<td>308,390</td>
+<td><span class="badge ok">MIT</span></td>
+<td>قبل 2 يوم</td>
+<td><span class="score">100.0</span></td>
+<td>مؤهّل</td>
+</tr><tr>
+<td>2</td>
+<td><a href="https://github.com/DietrichGebert/ponytail" target="_blank" rel="noopener">DietrichGebert/ponytail</a>
+<div class="desc">Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</div></td>
+<td><span class="tag src">github</span></td>
+<td>196,389</td>
+<td><span class="badge ok">MIT</span></td>
+<td>اليوم</td>
+<td><span class="score">100.0</span></td>
+<td>مؤهّل</td>
+</tr><tr>
+<td>3</td>
+<td><a href="https://github.com/Graphify-Labs/graphify" target="_blank" rel="noopener">Graphify-Labs/graphify</a>
+<div class="desc">Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Curso</div></td>
+<td><span class="tag src">github</span></td>
+<td>151,632</td>
+<td><span class="badge ok">Apache-2.0</span></td>
+<td>اليوم</td>
+<td><span class="score">100.0</span></td>
+<td>مؤهّل</td>
+</tr><tr>
+<td>4</td>
+<td><a href="https://github.com/tt-a1i/archify" target="_blank" rel="noopener">tt-a1i/archify</a>
+<div class="desc">Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.</div></td>
+<td><span class="tag src">github</span></td>
+<td>98,590</td>
+<td><span class="badge ok">Apache-2.0</span></td>
+<td>اليوم</td>
+<td><span class="score">100.0</span></td>
+<td>مؤهّل</td>
+</tr><tr>
+<td>5</td>
+<td><a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noopener">puppeteer/puppeteer</a>
+<div class="desc">JavaScript API for Chrome and Firefox</div></td>
+<td><span class="tag src">github</span></td>
+<td>95,881</td>
+<td><span class="badge ok">Apache-2.0</span></td>
+<td>اليوم</td>
+<td><span class="score">100.0</span></td>
+<td>مؤهّل</td>
+</tr><tr>
+<td>6</td>
+<td><a href="https://github.com/OpenHands/OpenHands" target="_blank" rel="noopener">OpenHands/OpenHands</a>
+<div class="desc">🙌 OpenHands: AI-Driven Development</div></td>
+<td><span class="tag src">github</span></td>
+<td>93,972</td>
+<td><span class="badge ok">MIT</span></td>
+<td>اليوم</td>
+<td><span class="score">100.0</span></td>
+<td>مؤهّل</td>
+</tr><tr>
+<td>7</td>
+<td><a href="https://github.com/rtk-ai/rtk" target="_blank" rel="noopener">rtk-ai/rtk</a>
+<div class="desc">CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</div></td>
+<td><span class="tag src">github</span></td>
+<td>87,424</td>
+<td><span class="badge ok">Apache-2.0</span></td>
+<td>اليوم</td>
+<td><span class="score">100.0</span></td>
+<td>مؤهّل</td>
+</tr><tr>
+<td>8</td>
+<td><a href="https://github.com/hoppscotch/hoppscotch" target="_blank" rel="noopener">hoppscotch/hoppscotch</a>
+<div class="desc">Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem &amp; Cloud • Web, Desktop &amp; CLI • Open-Source Alternat</div></td>
+<td><span class="tag src">github</span></td>
+<td>80,867</td>
+<td><span class="badge ok">MIT</span></td>
+<td>أمس</td>
+<td><span class="score">100.0</span></td>
+<td>مؤهّل</td>
+</tr><tr>
+<td>9</td>
+<td><a href="https://github.com/spring-cloud/spring-cloud-netflix" target="_blank" rel="noopener">spring-cloud/spring-cloud-netflix</a>
+<div class="desc">Integration with Netflix OSS components</div></td>
+<td><span class="tag src">github</span></td>
+<td>4,974</td>
+<td><span class="badge ok">Apache-2.0</span></td>
+<td>أمس</td>
+<td><span class="score">99.99</span></td>
+<td>مؤهّل</td>
+</tr><tr>
+<td>10</td>
+<td><a href="https://github.com/KnifeLemon/Filee" target="_blank" rel="noopener">KnifeLemon/Filee</a>
+<div class="desc">Free, open-source file converter. Convert 263 formats offline by drag &amp; drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, au</div></td>
+<td><span class="tag src">github</span></td>
+<td>29,703</td>
+<td><span class="badge ok">MIT</span></td>
+<td>اليوم</td>
+<td><span class="score">99.89</span></td>
+<td>مؤهّل</td>
+</tr><tr>
+<td>11</td>
+<td><a href="https://github.com/react-native-webrtc/react-native-webrtc" target="_blank" rel="noopener">react-native-webrtc/react-native-webrtc</a>
+<div class="desc">The WebRTC module for React Native</div></td>
+<td><span class="tag src">github</span></td>
+<td>4,994</td>
+<td><span class="badge ok">MIT</span></td>
+<td>قبل 7 يوم</td>
+<td><span class="score">99.74</span></td>
+<td>مؤهّل</td>
+</tr><tr>
+<td>12</td>
+<td><a href="https://github.com/apache/dubbo-go" target="_blank" rel="noopener">apache/dubbo-go</a>
+<div class="desc">Go Implementation For Apache Dubbo .</div></td>
+<td><span class="tag src">github</span></td>
+<td>4,982</td>
+<td><span class="badge ok">Apache-2.0</span></td>
+<td>اليوم</td>
+<td><span class="score">99.57</span></td>
+<td>مؤهّل</td>
+</tr><tr>
+<td>13</td>
+<td><a href="https://github.com/python-jsonschema/jsonschema" target="_blank" rel="noopener">python-jsonschema/jsonschema</a>
+<div class="desc">An implementation of the JSON Schema specification for Python</div></td>
+<td><span class="tag src">github</span></td>
+<td>4,998</td>
+<td><span class="badge ok">MIT</span></td>
+<td>قبل 5 يوم</td>
+<td><span class="score">99.33</span></td>
+<td>مؤهّل</td>
+</tr><tr>
+<td>14</td>
+<td><a href="https://github.com/browserslist/update-db" target="_blank" rel="noopener">update-browserslist-db</a>
+<div class="desc">CLI tool to update caniuse-lite to refresh target browsers from Browserslist config</div></td>
+<td><span class="tag src">npm</span></td>
+<td>266,902,593/أسبوع</td>
+<td><span class="badge ok">MIT</span></td>
+<td>اليوم</td>
+<td><span class="score">99.11</span></td>
+<td>مؤهّل</td>
+</tr><tr>
+<td>15</td>
+<td><a href="https://github.com/Nixtla/statsforecast" target="_blank" rel="noopener">Nixtla/statsforecast</a>
+<div class="desc">Lightning ⚡️ fast forecasting with statistical and econometric models.</div></td>
+<td><span class="tag src">github</span></td>
+<td>4,983</td>
+<td><span class="badge ok">Apache-2.0</span></td>
+<td>قبل 3 يوم</td>
+<td><span class="score">99.0</span></td>
+<td>مؤهّل</td>
+</tr>
+</table>
+</section>
+<section>
+<h2>النماذج المُختبَرة</h2>
+<div class="card"><h3>🧪 affaan-m/ECC</h3>
+<p>المسار: <code>experiments/affaan-m__ECC</code></p>
+<p>الاختبارات ✅ · CI ✅ · Docker ✅ · أفكار: 9</p></div><div class="card"><h3>🧪 DietrichGebert/ponytail</h3>
+<p>المسار: <code>experiments/DietrichGebert__ponytail</code></p>
+<p>الاختبارات ✅ · CI ✅ · Docker ❌ · أفكار: 6</p></div><div class="card"><h3>🧪 Graphify-Labs/graphify</h3>
+<p>المسار: <code>experiments/Graphify-Labs__graphify</code></p>
+<p>الاختبارات ✅ · CI ✅ · Docker ✅ · أفكار: 9</p></div>
+</section>
+<footer>وُلّد بواسطة OpenForge — الفحص ساكن؛ لا تشغيل للكود غير الموثوق. راجع docs/REPORT-ar.md للإطار القانوني.</footer>
+</div>
+</body>
+</html>

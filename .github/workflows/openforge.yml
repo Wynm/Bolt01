@@ -1,0 +1,40 @@
+name: OpenForge weekly
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # كل اثنين 06:00 UTC
+  workflow_dispatch:        # تشغيل يدوي
+
+permissions:
+  contents: write
+
+jobs:
+  openforge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run pipeline (discover → gate → score → forge → report)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 -m openforge run --forge --top 3
+
+      - name: Upload reports artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: openforge-reports
+          path: reports/
+
+      - name: Commit reports
+        run: |
+          git config user.name "openforge-bot"
+          git config user.email "openforge-bot@users.noreply.github.com"
+          git add reports/
+          git diff --cached --quiet || git commit -m "chore(openforge): weekly report [skip ci]"
+          git push
