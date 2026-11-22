@@ -1,0 +1,88 @@
+{
+  "discovery": {
+    "github_queries": [
+      {
+        "name": "rising_mit",
+        "q": "stars:100..5000 pushed:>{AFTER} license:mit",
+        "sort": "stars",
+        "order": "desc",
+        "per_page": 10
+      },
+      {
+        "name": "rising_apache",
+        "q": "stars:100..5000 pushed:>{AFTER} license:apache-2.0",
+        "sort": "stars",
+        "order": "desc",
+        "per_page": 10
+      },
+      {
+        "name": "new_promising",
+        "q": "created:>{CREATED} stars:>80 license:mit",
+        "sort": "stars",
+        "order": "desc",
+        "per_page": 10
+      },
+      {
+        "name": "tools_active",
+        "q": "topic:developer-tools stars:>50 pushed:>{AFTER}",
+        "sort": "stars",
+        "order": "desc",
+        "per_page": 10
+      }
+    ],
+    "npm_queries": [
+      "developer tools cli",
+      "local-first",
+      "terminal ui"
+    ],
+    "npm_size": 6,
+    "days_active": 45,
+    "days_created": 90
+  },
+  "gate": {
+    "allow": [
+      "MIT",
+      "Apache-2.0",
+      "BSD-2-Clause",
+      "BSD-3-Clause",
+      "ISC",
+      "Unlicense",
+      "CC0-1.0",
+      "0BSD"
+    ],
+    "conditional": [
+      "MPL-2.0",
+      "LGPL-3.0",
+      "LGPL-2.1",
+      "GPL-3.0",
+      "GPL-2.0",
+      "EPL-2.0",
+      "Zlib"
+    ],
+    "deny": [
+      "AGPL-3.0",
+      "SSPL-1.0",
+      "BUSL-1.1",
+      "Elastic-2.0",
+      "NOASSERTION"
+    ]
+  },
+  "scoring": {
+    "weights": {
+      "license": 0.25,
+      "activity": 0.25,
+      "community": 0.2,
+      "docs": 0.15,
+      "health": 0.15
+    },
+    "min_score": 60
+  },
+  "forge": {
+    "top_n": 3,
+    "max_archive_mb": 150
+  },
+  "platforms": {
+    "gitlab": { "enabled": true, "base": "https://gitlab.com/api/v4" },
+    "bitbucket": { "enabled": true, "base": "https://api.bitbucket.org/2.0" }
+  }
+}

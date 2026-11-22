@@ -1,0 +1,2954 @@
+{
+  "generated_at": "2026-11-22T01:30:50+00:00",
+  "ranked": [
+    {
+      "source": "github",
+      "query": "tools_active",
+      "full_name": "affaan-m/ECC",
+      "name": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 308390,
+      "forks": 45386,
+      "open_issues": 167,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-20T01:13:45Z",
+      "created_at": "2026-01-18T00:51:51Z",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "homepage": "https://ecc.tools",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "affaan-m",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 100.0,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 100.0,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "tools_active",
+      "full_name": "DietrichGebert/ponytail",
+      "name": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 196389,
+      "forks": 11069,
+      "open_issues": 336,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T22:54:03Z",
+      "created_at": "2026-06-12T00:52:37Z",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "homepage": "https://ponytail.dev",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "DietrichGebert",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 100.0,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 100.0,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "tools_active",
+      "full_name": "Graphify-Labs/graphify",
+      "name": "graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 151632,
+      "forks": 14566,
+      "open_issues": 1691,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-21T21:27:31Z",
+      "created_at": "2026-04-03T15:49:07Z",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "antigravity",
+        "ast",
+        "claude-code",
+        "code-analysis",
+        "code-search",
+        "codex",
+        "cursor",
+        "developer-tools",
+        "gemini",
+        "graphify",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "llm",
+        "mcp",
+        "openclaw",
+        "rag",
+        "skills",
+        "tree-sitter"
+      ],
+      "homepage": "https://www.graphify.com",
+      "default_branch": "v8",
+      "archived": false,
+      "owner": "Graphify-Labs",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 100.0,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 100.0,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "tools_active",
+      "full_name": "tt-a1i/archify",
+      "name": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "stars": 98590,
+      "forks": 6735,
+      "open_issues": 362,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-22T01:24:31Z",
+      "created_at": "2026-04-15T05:27:37Z",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "architecture-diagram",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "coding-agents",
+        "deepseek-harness",
+        "developer-tools",
+        "diagrams",
+        "diagrams-as-code",
+        "dsh-plugin",
+        "flowchart",
+        "llm",
+        "mermaid",
+        "opencode",
+        "sequence-diagram",
+        "software-architecture",
+        "system-design",
+        "visualization"
+      ],
+      "homepage": "https://archify.si",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "tt-a1i",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 100.0,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 100.0,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "tools_active",
+      "full_name": "puppeteer/puppeteer",
+      "name": "puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "stars": 95881,
+      "forks": 9605,
+      "open_issues": 213,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-22T01:05:42Z",
+      "created_at": "2017-05-09T22:16:13Z",
+      "language": "TypeScript",
+      "topics": [
+        "automation",
+        "chrome",
+        "chromium",
+        "developer-tools",
+        "firefox",
+        "headless-chrome",
+        "node-module",
+        "testing",
+        "web"
+      ],
+      "homepage": "https://pptr.dev",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "puppeteer",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 100.0,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 100.0,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "tools_active",
+      "full_name": "OpenHands/OpenHands",
+      "name": "OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 93972,
+      "forks": 12577,
+      "open_issues": 1234,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-22T01:09:25Z",
+      "created_at": "2024-03-13T03:33:31Z",
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
+      ],
+      "homepage": "https://openhands.dev",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "OpenHands",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 100.0,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 100.0,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "tools_active",
+      "full_name": "rtk-ai/rtk",
+      "name": "rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 87424,
+      "forks": 5612,
+      "open_issues": 1692,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-21T20:13:11Z",
+      "created_at": "2026-01-22T16:54:16Z",
+      "language": "Rust",
+      "topics": [
+        "agentic-coding",
+        "ai-coding",
+        "anthropic",
+        "claude-code",
+        "cli",
+        "command-line-tool",
+        "cost-reduction",
+        "developer-tools",
+        "llm",
+        "open-source",
+        "productivity",
+        "rust",
+        "token-optimization"
+      ],
+      "homepage": "https://www.rtk-ai.app",
+      "default_branch": "develop",
+      "archived": false,
+      "owner": "rtk-ai",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 100.0,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 100.0,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "tools_active",
+      "full_name": "hoppscotch/hoppscotch",
+      "name": "hoppscotch",
+      "url": "https://github.com/hoppscotch/hoppscotch",
+      "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+      "stars": 80867,
+      "forks": 6231,
+      "open_issues": 919,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-20T13:56:55Z",
+      "created_at": "2019-08-21T13:15:24Z",
+      "language": "TypeScript",
+      "topics": [
+        "api",
+        "api-client",
+        "api-rest",
+        "api-testing",
+        "developer-tools",
+        "graphql",
+        "http",
+        "http-client",
+        "pwa",
+        "rest",
+        "rest-api",
+        "spa",
+        "testing",
+        "testing-tools",
+        "tools",
+        "vue",
+        "vuejs",
+        "websocket"
+      ],
+      "homepage": "https://hoppscotch.io",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "hoppscotch",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 100.0,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 100.0,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_apache",
+      "full_name": "spring-cloud/spring-cloud-netflix",
+      "name": "spring-cloud-netflix",
+      "url": "https://github.com/spring-cloud/spring-cloud-netflix",
+      "description": "Integration with Netflix OSS components",
+      "stars": 4974,
+      "forks": 2452,
+      "open_issues": 96,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-20T14:05:20Z",
+      "created_at": "2014-07-11T15:46:12Z",
+      "language": "Java",
+      "topics": [
+        "cloud-native",
+        "feign",
+        "java",
+        "microservices",
+        "netflix-eureka",
+        "netflix-hystrix",
+        "netflix-zuul",
+        "netflixoss",
+        "ribbon",
+        "spring",
+        "spring-boot",
+        "spring-cloud",
+        "spring-cloud-core"
+      ],
+      "homepage": "http://cloud.spring.io/spring-cloud-netflix/",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "spring-cloud",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 99.99,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 100.0,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "new_promising",
+      "full_name": "KnifeLemon/Filee",
+      "name": "Filee",
+      "url": "https://github.com/KnifeLemon/Filee",
+      "description": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+      "stars": 29703,
+      "forks": 1689,
+      "open_issues": 153,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T23:32:51Z",
+      "created_at": "2026-09-29T20:05:15Z",
+      "language": "C#",
+      "topics": [
+        "audio-converter",
+        "avalonia",
+        "batch-conversion",
+        "converter",
+        "csharp",
+        "document-converter",
+        "docx-to-pdf",
+        "dotnet",
+        "drag-and-drop",
+        "file-conversion",
+        "file-converter",
+        "heic-converter",
+        "hwp",
+        "hwpx",
+        "image-converter",
+        "linux",
+        "macos",
+        "pdf-converter",
+        "video-converter",
+        "windows"
+      ],
+      "homepage": "https://filee.sh",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "KnifeLemon",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 99.89,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 99.4,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_mit",
+      "full_name": "react-native-webrtc/react-native-webrtc",
+      "name": "react-native-webrtc",
+      "url": "https://github.com/react-native-webrtc/react-native-webrtc",
+      "description": "The WebRTC module for React Native",
+      "stars": 4994,
+      "forks": 1341,
+      "open_issues": 31,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-14T13:37:20Z",
+      "created_at": "2015-09-27T10:57:30Z",
+      "language": "Java",
+      "topics": [
+        "react",
+        "react-native",
+        "webrtc"
+      ],
+      "homepage": "https://react-native-webrtc.discourse.group",
+      "default_branch": "master",
+      "archived": false,
+      "owner": "react-native-webrtc",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 99.74,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 98.7,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_apache",
+      "full_name": "apache/dubbo-go",
+      "name": "dubbo-go",
+      "url": "https://github.com/apache/dubbo-go",
+      "description": "Go Implementation For Apache Dubbo .",
+      "stars": 4982,
+      "forks": 1053,
+      "open_issues": 73,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-21T06:00:00Z",
+      "created_at": "2018-08-08T05:30:36Z",
+      "language": "Go",
+      "topics": [
+        "go",
+        "http2",
+        "microservices",
+        "rpc",
+        "service-mesh"
+      ],
+      "homepage": "https://dubbo.apache.org/",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "apache",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 99.57,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 97.9,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_mit",
+      "full_name": "python-jsonschema/jsonschema",
+      "name": "jsonschema",
+      "url": "https://github.com/python-jsonschema/jsonschema",
+      "description": "An implementation of the JSON Schema specification for Python",
+      "stars": 4998,
+      "forks": 727,
+      "open_issues": 61,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-16T18:44:26Z",
+      "created_at": "2011-12-30T03:37:43Z",
+      "language": "Python",
+      "topics": [
+        "json",
+        "json-schema",
+        "jsonschema",
+        "schema",
+        "validation"
+      ],
+      "homepage": "https://python-jsonschema.readthedocs.io",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "python-jsonschema",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 99.33,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 96.7,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "developer tools cli",
+      "full_name": "update-browserslist-db",
+      "name": "update-browserslist-db",
+      "url": "https://github.com/browserslist/update-db",
+      "description": "CLI tool to update caniuse-lite to refresh target browsers from Browserslist config",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 266902593,
+      "search_score": 88.92631,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T09:45:52.929Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [
+        "browsers",
+        "caniuse",
+        "target"
+      ],
+      "homepage": "https://github.com/browserslist/update-db#readme",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "1.4.0",
+      "gate": {
+        "spdx": "MIT",
+        "source": "npm",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 99.11,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 95.6,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_apache",
+      "full_name": "Nixtla/statsforecast",
+      "name": "statsforecast",
+      "url": "https://github.com/Nixtla/statsforecast",
+      "description": "Lightning ⚡️ fast forecasting with statistical and econometric models.",
+      "stars": 4983,
+      "forks": 439,
+      "open_issues": 197,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-19T00:54:46Z",
+      "created_at": "2021-11-24T02:19:14Z",
+      "language": "Python",
+      "topics": [
+        "arima",
+        "automl",
+        "baselines",
+        "data-science",
+        "econometrics",
+        "ets",
+        "exponential-smoothing",
+        "fbprophet",
+        "forecasting",
+        "machine-learning",
+        "mstl",
+        "naive",
+        "neuralprophet",
+        "predictions",
+        "prophet",
+        "python",
+        "seasonal-naive",
+        "statistics",
+        "theta",
+        "time-series"
+      ],
+      "homepage": "https://nixtlaverse.nixtla.io/statsforecast",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "Nixtla",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 99.0,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 95.0,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "developer tools cli",
+      "full_name": "prisma",
+      "name": "prisma",
+      "url": "https://github.com/prisma/prisma-cli",
+      "description": "The Prisma CLI: one binary for the ORM, Composer, and the Prisma Developer Platform.",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 26543733,
+      "search_score": 87.52747,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-21T09:38:17.251Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [
+        "prisma",
+        "cli",
+        "orm",
+        "database",
+        "deployment"
+      ],
+      "homepage": "https://github.com/prisma/prisma-cli#readme",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "8.0.0-rc.34",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "npm",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 99.0,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 95.0,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_apache",
+      "full_name": "SwiftOldDriver/iOS-Weekly",
+      "name": "iOS-Weekly",
+      "url": "https://github.com/SwiftOldDriver/iOS-Weekly",
+      "description": "🇨🇳 老司机技术 iOS 周报",
+      "stars": 4990,
+      "forks": 429,
+      "open_issues": 19,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-22T00:57:50Z",
+      "created_at": "2017-12-27T03:11:16Z",
+      "language": "JavaScript",
+      "topics": [
+        "ios",
+        "mobile",
+        "objective-c",
+        "rss",
+        "swift",
+        "weekly"
+      ],
+      "homepage": "https://swiftolddriver.github.io/iOS-Weekly/",
+      "default_branch": "master",
+      "archived": false,
+      "owner": "SwiftOldDriver",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 98.99,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 94.9,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_apache",
+      "full_name": "dotnetcore/BootstrapBlazor",
+      "name": "BootstrapBlazor",
+      "url": "https://github.com/dotnetcore/BootstrapBlazor",
+      "description": "Bootstrap Blazor is an enterprise-level UI component library based on Bootstrap and Blazor.",
+      "stars": 4972,
+      "forks": 394,
+      "open_issues": 3,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-21T12:56:51Z",
+      "created_at": "2020-03-20T10:37:54Z",
+      "language": "C#",
+      "topics": [
+        "blazor",
+        "bootstrap",
+        "net10",
+        "net11",
+        "net6",
+        "net7",
+        "net8",
+        "net9",
+        "ui",
+        "wasm",
+        "webassembly"
+      ],
+      "homepage": "https://blazor.zone",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "dotnetcore",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 98.92,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 94.6,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "new_promising",
+      "full_name": "yetone/magpie",
+      "name": "magpie",
+      "url": "https://github.com/yetone/magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "stars": 39785,
+      "forks": 3638,
+      "open_issues": 4880,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T19:26:01Z",
+      "created_at": "2026-09-23T16:22:35Z",
+      "language": "Go",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm",
+        "macos"
+      ],
+      "homepage": "https://usemagpie.ai",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "yetone",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 98.88,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 100.0,
+          "docs": 100.0,
+          "health": 92.5
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_mit",
+      "full_name": "cssnano/cssnano",
+      "name": "cssnano",
+      "url": "https://github.com/cssnano/cssnano",
+      "description": "A modular CSS minifier, built on top of the PostCSS ecosystem.",
+      "stars": 4980,
+      "forks": 331,
+      "open_issues": 19,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T23:11:48Z",
+      "created_at": "2015-04-14T16:23:09Z",
+      "language": "JavaScript",
+      "topics": [
+        "css",
+        "cssnano",
+        "minification",
+        "optimisation",
+        "postcss"
+      ],
+      "homepage": "https://cssnano.github.io/cssnano/",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "cssnano",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 98.81,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 94.1,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "local-first",
+      "full_name": "rxdb",
+      "name": "rxdb",
+      "url": "https://github.com/pubkey/rxdb",
+      "description": "A local-first realtime NoSQL Database for JavaScript applications - https://rxdb.info/",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 130732,
+      "search_score": 300.6827,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-21T09:38:40.053Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [
+        "db",
+        "database",
+        "offline-first",
+        "local-first",
+        "local first",
+        "nosql",
+        "no-sql",
+        "jsonschema",
+        "schema",
+        "rxjs",
+        "pwa",
+        "progessive web app",
+        "hybrid app",
+        "localstorage",
+        "indexeddb",
+        "storage",
+        "react-native",
+        "encryption",
+        "encrypted",
+        "pouchdb",
+        "nats",
+        "websql",
+        "sqlite",
+        "query",
+        "live-query",
+        "realtime query",
+        "reactive",
+        "replication",
+        "realtime",
+        "realtime database",
+        "local database",
+        "embedded database",
+        "in-memory",
+        "memory",
+        "memory database",
+        "local database",
+        "embedded",
+        "embed",
+        "electron database",
+        "mongodb",
+        "lokijs",
+        "JSON",
+        "angular database",
+        "react database",
+        "capacitor database",
+        "node.js database",
+        "document",
+        "file database",
+        "json database",
+        "key value database",
+        "database driver",
+        "database abstraction layer",
+        "document database",
+        "graph database",
+        "mock database",
+        "cross-database",
+        "asyncstorage",
+        "localforage",
+        "mongoose",
+        "migrate database",
+        "websocket database",
+        "database-client",
+        "dbms",
+        "database engine",
+        "datastore",
+        "supabase",
+        "mongodb",
+        "appwrite",
+        "couchdb",
+        "firestore",
+        "firebase"
+      ],
+      "homepage": "https://rxdb.info/",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "17.6.0",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "npm",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 98.77,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 93.9,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_apache",
+      "full_name": "vladelaina/Catime",
+      "name": "Catime",
+      "url": "https://github.com/vladelaina/Catime",
+      "description": "💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, join here🧸: https://discord.com/invite/W3tW2gtp6g",
+      "stars": 4997,
+      "forks": 212,
+      "open_issues": 161,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-21T08:06:02Z",
+      "created_at": "2025-01-28T10:07:53Z",
+      "language": "C",
+      "topics": [
+        "c",
+        "clock",
+        "efficiency",
+        "efficiency-tool",
+        "pomodoro",
+        "pomodoro-technique",
+        "pomodoro-timer",
+        "time-management"
+      ],
+      "homepage": "https://cati.me",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "vladelaina",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 98.53,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 92.6,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "terminal ui",
+      "full_name": "@ai-sdk/tui",
+      "name": "@ai-sdk/tui",
+      "url": "https://github.com/vercel/ai",
+      "description": "Run AI SDK agents in a terminal UI.",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 61118,
+      "search_score": 286.98804,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-21T09:38:19.144Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "agent",
+        "chatbot",
+        "cli",
+        "terminal",
+        "tui"
+      ],
+      "homepage": "https://ai-sdk.dev/docs",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "1.0.180",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "npm",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 98.08,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 90.4,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "local-first",
+      "full_name": "@bobfrankston/rmfmail",
+      "name": "@bobfrankston/rmfmail",
+      "url": "https://github.com/BobFrankston/mailx",
+      "description": "Local-first email client with IMAP sync and standalone native app",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 43840,
+      "search_score": 261.8842,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T09:43:53.959Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [
+        "email",
+        "imap",
+        "smtp",
+        "mail-client",
+        "webview"
+      ],
+      "homepage": "https://github.com/BobFrankston/mailx#readme",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "1.2.368",
+      "gate": {
+        "spdx": "MIT",
+        "source": "npm",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 97.77,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 88.9,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "local-first",
+      "full_name": "@tanstack/rxdb-db-collection",
+      "name": "@tanstack/rxdb-db-collection",
+      "url": "https://github.com/TanStack/db",
+      "description": "Reactive, Offline-First adapter for TanStack DB using RxDB. Sync, Replication and Local-First support.",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 18772,
+      "search_score": 227.47029,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T09:43:53.624Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [
+        "rxdb",
+        "tanstack",
+        "tanstack-db",
+        "nosql",
+        "realtime",
+        "local-first",
+        "offline-first",
+        "offline",
+        "pwa",
+        "reactive",
+        "database",
+        "sync-engine",
+        "sync",
+        "replication",
+        "opfs",
+        "indexeddb",
+        "localstorage",
+        "optimistic"
+      ],
+      "homepage": "https://tanstack.com/db/latest/docs/collections/rxdb-collection",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "1.0.0-rc.1.5",
+      "gate": {
+        "spdx": "MIT",
+        "source": "npm",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 97.0,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 85.0,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "terminal ui",
+      "full_name": "@assistant-ui/react-ink",
+      "name": "@assistant-ui/react-ink",
+      "url": "https://github.com/assistant-ui/assistant-ui",
+      "description": "React Ink (terminal UI) bindings for assistant-ui",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 13467,
+      "search_score": 283.04602,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-19T18:01:59.488Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [
+        "assistant",
+        "ai",
+        "chat",
+        "ink",
+        "terminal",
+        "cli"
+      ],
+      "homepage": "https://www.assistant-ui.com/",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "0.0.55",
+      "gate": {
+        "spdx": "MIT",
+        "source": "npm",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 96.69,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 83.5,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "terminal ui",
+      "full_name": "@yaos-git/run-tui",
+      "name": "@yaos-git/run-tui",
+      "url": "https://github.com/YAOSGit/run-tui",
+      "description": "An interactive terminal UI for running npm scripts concurrently",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 7389,
+      "search_score": 222.80298,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "ISC",
+      "pushed_at": "2026-11-21T09:44:24.913Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [
+        "cli",
+        "tui",
+        "terminal",
+        "npm-scripts",
+        "concurrently",
+        "ink",
+        "react"
+      ],
+      "homepage": "https://github.com/YAOSGit/run-tui#readme",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "226.0.1",
+      "gate": {
+        "spdx": "ISC",
+        "source": "npm",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 96.15,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 80.7,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "terminal ui",
+      "full_name": "@teaui/core",
+      "name": "@teaui/core",
+      "url": "https://github.com/colinta/teaui",
+      "description": "A high-level terminal UI library for Node",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 7186,
+      "search_score": 222.23523,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T09:43:57.421Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [
+        "curses",
+        "tui",
+        "terminal",
+        "text-ui",
+        "terminal-ui"
+      ],
+      "homepage": "https://github.com/colinta/teaui",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "1.30.28",
+      "gate": {
+        "spdx": "MIT",
+        "source": "npm",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 96.12,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 80.6,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_mit",
+      "full_name": "dmno-dev/varlock",
+      "name": "varlock",
+      "url": "https://github.com/dmno-dev/varlock",
+      "description": "AI-safe .env files: Schemas for agents, Secrets for humans.",
+      "stars": 4987,
+      "forks": 146,
+      "open_issues": 79,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-19T13:27:08Z",
+      "created_at": "2025-04-11T05:00:36Z",
+      "language": "TypeScript",
+      "topics": [
+        "configuration",
+        "dotenv",
+        "env",
+        "env-vars",
+        "schema",
+        "security",
+        "validation"
+      ],
+      "homepage": "https://varlock.dev",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "dmno-dev",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 96.03,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 91.4,
+          "docs": 100.0,
+          "health": 85.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_mit",
+      "full_name": "mlocati/docker-php-extension-installer",
+      "name": "docker-php-extension-installer",
+      "url": "https://github.com/mlocati/docker-php-extension-installer",
+      "description": "Easily install PHP extensions in Docker containers",
+      "stars": 5000,
+      "forks": 432,
+      "open_issues": 11,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T12:07:50Z",
+      "created_at": "2018-04-11T12:22:40Z",
+      "language": "Shell",
+      "topics": [
+        "docker",
+        "extension",
+        "install",
+        "php"
+      ],
+      "homepage": "",
+      "default_branch": "master",
+      "archived": false,
+      "owner": "mlocati",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 95.99,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 95.0,
+          "docs": 80.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_mit",
+      "full_name": "TakWolf/ark-pixel-font",
+      "name": "ark-pixel-font",
+      "url": "https://github.com/TakWolf/ark-pixel-font",
+      "description": "开源的泛拉丁与泛中日韩像素字体，黑体风格",
+      "stars": 4997,
+      "forks": 104,
+      "open_issues": 5,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T11:54:01Z",
+      "created_at": "2021-05-11T18:12:13Z",
+      "language": "Python",
+      "topics": [
+        "bitmap",
+        "bitmap-font",
+        "bitmap-fonts",
+        "chinese",
+        "chinese-simplified",
+        "chinese-traditional",
+        "cjk",
+        "cjk-font",
+        "cjk-fonts",
+        "font",
+        "fonts",
+        "japanese",
+        "korean",
+        "pixel",
+        "pixel-font",
+        "pixel-fonts"
+      ],
+      "homepage": "http://ark-pixel-font.takwolf.com/",
+      "default_branch": "master",
+      "archived": false,
+      "owner": "TakWolf",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 95.81,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 90.3,
+          "docs": 100.0,
+          "health": 85.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "new_promising",
+      "full_name": "pengchujin/aerial-tv",
+      "name": "aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "stars": 12844,
+      "forks": 1117,
+      "open_issues": 413,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T05:48:38Z",
+      "created_at": "2026-10-20T09:13:06Z",
+      "language": "Kotlin",
+      "topics": [],
+      "homepage": "https://aerial.qust.me",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "pengchujin",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 95.12,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 98.1,
+          "docs": 70.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_apache",
+      "full_name": "muzei/muzei",
+      "name": "muzei",
+      "url": "https://github.com/muzei/muzei",
+      "description": "Muzei Live Wallpaper for Android",
+      "stars": 4970,
+      "forks": 950,
+      "open_issues": 40,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-21T02:07:14Z",
+      "created_at": "2014-02-06T23:39:33Z",
+      "language": "Kotlin",
+      "topics": [],
+      "homepage": "http://muzei.co",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "muzei",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 95.0,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 97.5,
+          "docs": 70.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_apache",
+      "full_name": "JodaOrg/joda-time",
+      "name": "joda-time",
+      "url": "https://github.com/JodaOrg/joda-time",
+      "description": "Joda-Time is the widely used replacement for the Java date and time classes prior to Java SE 8.",
+      "stars": 4976,
+      "forks": 1034,
+      "open_issues": 46,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-10-28T23:55:33Z",
+      "created_at": "2011-05-16T16:49:57Z",
+      "language": "Java",
+      "topics": [
+        "date-time",
+        "java",
+        "joda",
+        "joda-time"
+      ],
+      "homepage": "http://www.joda.org/joda-time/",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "JodaOrg",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 94.56,
+        "parts": {
+          "license": 100.0,
+          "activity": 80.0,
+          "community": 97.8,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "local-first",
+      "full_name": "@colbymchenry/codegraph",
+      "name": "@colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Local-first code intelligence for AI agents (MCP). Self-contained — bundles its own runtime.",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 174384,
+      "search_score": 239.44211,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T09:39:25.751Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [],
+      "homepage": "https://github.com/colbymchenry/codegraph#readme",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "1.6.4",
+      "gate": {
+        "spdx": "MIT",
+        "source": "npm",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 94.54,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 95.2,
+          "docs": 70.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_mit",
+      "full_name": "jendrikseipp/vulture",
+      "name": "vulture",
+      "url": "https://github.com/jendrikseipp/vulture",
+      "description": "Find dead Python code",
+      "stars": 4999,
+      "forks": 223,
+      "open_issues": 82,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-16T08:06:27Z",
+      "created_at": "2017-03-06T08:00:18Z",
+      "language": "Python",
+      "topics": [
+        "dead-code-removal",
+        "python"
+      ],
+      "homepage": "",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "jendrikseipp",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 93.31,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 92.8,
+          "docs": 65.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "new_promising",
+      "full_name": "Niko1221/Strata",
+      "name": "Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "stars": 46578,
+      "forks": 5189,
+      "open_issues": 1140,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T22:40:37Z",
+      "created_at": "2026-09-24T16:40:20Z",
+      "language": "C++",
+      "topics": [],
+      "homepage": "",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "Niko1221",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 92.5,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 100.0,
+          "docs": 50.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "new_promising",
+      "full_name": "robbietilton/Compositor",
+      "name": "Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "description": "The Photoshop alternative for Mac",
+      "stars": 18766,
+      "forks": 1865,
+      "open_issues": 32,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T22:31:59Z",
+      "created_at": "2026-09-16T20:35:54Z",
+      "language": "Swift",
+      "topics": [],
+      "homepage": null,
+      "default_branch": "main",
+      "archived": false,
+      "owner": "robbietilton",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 92.45,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 99.8,
+          "docs": 50.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_mit",
+      "full_name": "go-mysql-org/go-mysql",
+      "name": "go-mysql",
+      "url": "https://github.com/go-mysql-org/go-mysql",
+      "description": "a powerful mysql toolset with Go",
+      "stars": 4978,
+      "forks": 1102,
+      "open_issues": 165,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-21T15:44:49Z",
+      "created_at": "2014-02-21T01:56:45Z",
+      "language": "Go",
+      "topics": [],
+      "homepage": "",
+      "default_branch": "master",
+      "archived": false,
+      "owner": "go-mysql-org",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 92.1,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 98.0,
+          "docs": 50.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "tools_active",
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "name": "dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "stars": 83120,
+      "forks": 2339,
+      "open_issues": 225,
+      "license_spdx": "NOASSERTION",
+      "pushed_at": "2026-11-21T10:49:38Z",
+      "created_at": "2026-09-24T16:17:19Z",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "free-model",
+        "llm",
+        "model-provider",
+        "openai-compatible"
+      ],
+      "homepage": null,
+      "default_branch": "main",
+      "archived": false,
+      "owner": "Ebony-Vinyl",
+      "gate": {
+        "spdx": "MIT",
+        "source": "file",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 91.75,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 100.0,
+          "docs": 60.0,
+          "health": 85.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_apache",
+      "full_name": "apple/swift-protobuf",
+      "name": "swift-protobuf",
+      "url": "https://github.com/apple/swift-protobuf",
+      "description": "Plugin and runtime library for using protobuf with Swift",
+      "stars": 4972,
+      "forks": 549,
+      "open_issues": 60,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-20T18:35:39Z",
+      "created_at": "2016-09-02T00:51:55Z",
+      "language": "Swift",
+      "topics": [],
+      "homepage": "",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "apple",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 91.64,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 95.7,
+          "docs": 50.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "new_promising",
+      "full_name": "seedds/nxnative",
+      "name": "nxnative",
+      "url": "https://github.com/seedds/nxnative",
+      "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
+      "stars": 16421,
+      "forks": 3011,
+      "open_issues": 1170,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-22T01:26:06Z",
+      "created_at": "2026-10-13T05:20:14Z",
+      "language": "Objective-C",
+      "topics": [],
+      "homepage": null,
+      "default_branch": "main",
+      "archived": false,
+      "owner": "seedds",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 91.38,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 100.0,
+          "docs": 50.0,
+          "health": 92.5
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "developer tools cli",
+      "full_name": "@klips-tooling/bot-cli",
+      "name": "@klips-tooling/bot-cli",
+      "url": "https://github.com/klips-tooling/bot-cli",
+      "description": "BOT Chain developer tools CLI — interactive scaffolding for building dApps on BOT Chain",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 34,
+      "search_score": 134.46426,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-18T12:31:20.297Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [
+        "blockchain",
+        "web3",
+        "bot-chain",
+        "dapp",
+        "scaffold",
+        "cli",
+        "solidity",
+        "foundry",
+        "typescript",
+        "nextjs",
+        "react",
+        "wagmi",
+        "viem"
+      ],
+      "homepage": "https://klips-tooling.github.io/bot-cli",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "0.1.3",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "npm",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 91.25,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 56.3,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "local-first",
+      "full_name": "@fragno-dev/lofi",
+      "name": "@fragno-dev/lofi",
+      "url": "https://github.com/rejot-dev/fragno",
+      "description": "Fragno local-first client",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 4076,
+      "search_score": 281.79932,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-20T18:02:43.647Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [],
+      "homepage": "https://fragno.dev",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "0.0.1",
+      "gate": {
+        "spdx": "MIT",
+        "source": "npm",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 91.1,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 78.0,
+          "docs": 70.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_mit",
+      "full_name": "darrenhinde/OpenAgentsControl",
+      "name": "OpenAgentsControl",
+      "url": "https://github.com/darrenhinde/OpenAgentsControl",
+      "description": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode",
+      "stars": 4985,
+      "forks": 402,
+      "open_issues": 70,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-10-26T19:00:10Z",
+      "created_at": "2025-08-14T21:44:01Z",
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "ai-agents-framework",
+        "ai-t",
+        "automation",
+        "code-generation",
+        "code-validation",
+        "developer-tools",
+        "opencode",
+        "prompt-engineering"
+      ],
+      "homepage": "",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "darrenhinde",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 90.94,
+        "parts": {
+          "license": 100.0,
+          "activity": 80.0,
+          "community": 94.7,
+          "docs": 80.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_mit",
+      "full_name": "SadeghHayeri/GreenTunnel",
+      "name": "GreenTunnel",
+      "url": "https://github.com/SadeghHayeri/GreenTunnel",
+      "description": "GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.",
+      "stars": 4988,
+      "forks": 311,
+      "open_issues": 109,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-10-30T05:18:20Z",
+      "created_at": "2019-03-15T07:51:30Z",
+      "language": "TypeScript",
+      "topics": [
+        "deep-packet-inspection",
+        "dpi",
+        "filtering",
+        "firewall-bypass",
+        "isp",
+        "proxy",
+        "sni",
+        "socks",
+        "vpn"
+      ],
+      "homepage": "",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "SadeghHayeri",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 90.77,
+        "parts": {
+          "license": 100.0,
+          "activity": 80.0,
+          "community": 93.9,
+          "docs": 80.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "new_promising",
+      "full_name": "browser-use/jev-ultrafast",
+      "name": "jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "description": "Fastest and cheapest web agent",
+      "stars": 24701,
+      "forks": 1897,
+      "open_issues": 210,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-11T04:09:33Z",
+      "created_at": "2026-09-16T21:30:12Z",
+      "language": "Python",
+      "topics": [],
+      "homepage": "https://browser-use.com",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "browser-use",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 90.47,
+        "parts": {
+          "license": 100.0,
+          "activity": 80.0,
+          "community": 99.8,
+          "docs": 70.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "new_promising",
+      "full_name": "wheresryan22/anatomy",
+      "name": "anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "stars": 28577,
+      "forks": 2426,
+      "open_issues": 78,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-10-18T20:20:24Z",
+      "created_at": "2026-10-08T10:12:49Z",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization"
+      ],
+      "homepage": "https://skills.wheresryan.sh/anatomy",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "wheresryan22",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 90.0,
+        "parts": {
+          "license": 100.0,
+          "activity": 60.0,
+          "community": 100.0,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "new_promising",
+      "full_name": "yihui-dev/awesome-opus5-5-videos",
+      "name": "awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+      "stars": 16129,
+      "forks": 1717,
+      "open_issues": 14,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-10-13T14:46:44Z",
+      "created_at": "2026-09-27T06:19:36Z",
+      "language": null,
+      "topics": [
+        "ai-video",
+        "awesome",
+        "awesome-list",
+        "claude",
+        "claude-opus",
+        "creative-coding",
+        "motion-graphics",
+        "prompts",
+        "threejs"
+      ],
+      "homepage": "https://skillry.dev/ai-videos/opus-5-5",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "yihui-dev",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 89.9,
+        "parts": {
+          "license": 100.0,
+          "activity": 60.0,
+          "community": 99.5,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "terminal ui",
+      "full_name": "@skillkit/tui",
+      "name": "@skillkit/tui",
+      "url": "https://www.npmjs.com/package/@skillkit/tui",
+      "description": "Unified Terminal UI for SkillKit - Built on OpenTUI",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 7404,
+      "search_score": 215.4241,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-11-21T09:49:22.033Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [],
+      "homepage": null,
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "1.24.0",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "npm",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 88.65,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 80.7,
+          "docs": 50.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "developer tools cli",
+      "full_name": "@medable/mdctl-cli",
+      "name": "@medable/mdctl-cli",
+      "url": "https://github.com/Medable/mdctl",
+      "description": "Medable Developer Tools :: Cli tool",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 91,
+      "search_score": 240.98598,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-20T20:21:32.892Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [],
+      "homepage": "https://github.com/Medable/mdctl#readme",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "1.0.73",
+      "gate": {
+        "spdx": "MIT",
+        "source": "npm",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 87.64,
+        "parts": {
+          "license": 100.0,
+          "activity": 100.0,
+          "community": 60.7,
+          "docs": 70.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "new_promising",
+      "full_name": "deepseek-ai/dsh-superagent-prototype",
+      "name": "dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "stars": 24159,
+      "forks": 3006,
+      "open_issues": 0,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-11-03T09:29:14Z",
+      "created_at": "2026-10-31T09:32:46Z",
+      "language": "TypeScript",
+      "topics": [],
+      "homepage": null,
+      "default_branch": "main",
+      "archived": false,
+      "owner": "deepseek-ai",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 87.5,
+        "parts": {
+          "license": 100.0,
+          "activity": 80.0,
+          "community": 100.0,
+          "docs": 50.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "tools_active",
+      "full_name": "ayghri/i-have-adhd",
+      "name": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 61894,
+      "forks": 3631,
+      "open_issues": 103,
+      "license_spdx": "MIT",
+      "pushed_at": "2026-10-19T19:46:23Z",
+      "created_at": "2026-05-13T20:42:06Z",
+      "language": "Python",
+      "topics": [
+        "adhd",
+        "claude-",
+        "claude-code-plugin",
+        "claude-skills",
+        "developer-tools",
+        "productivity"
+      ],
+      "homepage": "",
+      "default_branch": "main",
+      "archived": false,
+      "owner": "ayghri",
+      "gate": {
+        "spdx": "MIT",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 87.0,
+        "parts": {
+          "license": 100.0,
+          "activity": 60.0,
+          "community": 100.0,
+          "docs": 80.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "github",
+      "query": "rising_apache",
+      "full_name": "longitachi/ZLPhotoBrowser",
+      "name": "ZLPhotoBrowser",
+      "url": "https://github.com/longitachi/ZLPhotoBrowser",
+      "description": "Wechat-like image picker. Support select photos, videos, gif and livePhoto. Support edit image and crop video. 微信样式的图片选择器，支持预览/相册内拍照及录视频、拖拽/滑动选择，编辑图片/视频，支持多语言国际化等功能; ",
+      "stars": 4990,
+      "forks": 1016,
+      "open_issues": 15,
+      "license_spdx": "Apache-2.0",
+      "pushed_at": "2026-10-19T08:23:14Z",
+      "created_at": "2015-12-01T03:17:54Z",
+      "language": "Swift",
+      "topics": [
+        "editimage",
+        "editvideo",
+        "gallery",
+        "gif",
+        "imagepicker",
+        "ios",
+        "livephoto",
+        "photolibrary",
+        "photos",
+        "picker",
+        "swift"
+      ],
+      "homepage": "",
+      "default_branch": "master",
+      "archived": false,
+      "owner": "longitachi",
+      "gate": {
+        "spdx": "Apache-2.0",
+        "source": "api",
+        "status": "allow",
+        "decision": "مؤهّل",
+        "eligible": true,
+        "warning": false,
+        "attribution_required": true
+      },
+      "score": {
+        "total": 86.55,
+        "parts": {
+          "license": 100.0,
+          "activity": 60.0,
+          "community": 97.8,
+          "docs": 80.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "terminal ui",
+      "full_name": "linecraft",
+      "name": "linecraft",
+      "url": "https://github.com/matthew-dean/linecraft",
+      "description": "High-performance terminal UI library for Node.js",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 2870,
+      "search_score": 220.71745,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "LicenseRef-FLL-1.2",
+      "pushed_at": "2026-11-15T05:57:43.406Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [
+        "terminal",
+        "tui",
+        "progress",
+        "spinner",
+        "ansi"
+      ],
+      "homepage": "https://github.com/matthew-dean/linecraft#readme",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "0.5.8",
+      "gate": {
+        "spdx": "LicenseRef-FLL-1.2",
+        "source": "npm",
+        "status": "deny",
+        "decision": "مستبعد",
+        "eligible": false,
+        "warning": false,
+        "attribution_required": false
+      },
+      "score": {
+        "total": 70.28,
+        "parts": {
+          "license": 0.0,
+          "activity": 100.0,
+          "community": 76.4,
+          "docs": 100.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "local-first",
+      "full_name": "@inerrata-corporation/errata",
+      "name": "@inerrata-corporation/errata",
+      "url": "https://www.npmjs.com/package/@inerrata-corporation/errata",
+      "description": "errata - local-first observation engine for AI coding agents",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 3408,
+      "search_score": 223.07393,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "UNLICENSED",
+      "pushed_at": "2026-11-20T10:50:59.324Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [],
+      "homepage": null,
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "2.0.29",
+      "gate": {
+        "spdx": "UNLICENSED",
+        "source": "npm",
+        "status": "deny",
+        "decision": "مستبعد",
+        "eligible": false,
+        "warning": false,
+        "attribution_required": false
+      },
+      "score": {
+        "total": 62.94,
+        "parts": {
+          "license": 0.0,
+          "activity": 100.0,
+          "community": 77.2,
+          "docs": 50.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "developer tools cli",
+      "full_name": "skipy-devtools-cli",
+      "name": "skipy-devtools-cli",
+      "url": "https://github.com/nitdraig/skipy",
+      "description": "Skipy Developer Tools CLI",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 3,
+      "search_score": 100.34303,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": "GNU-3",
+      "pushed_at": "2026-11-18T19:56:19.202Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [],
+      "homepage": "https://github.com/nitdraig/skipy#readme",
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "1.0.5",
+      "gate": {
+        "spdx": "GNU-3",
+        "source": "npm",
+        "status": "deny",
+        "decision": "مستبعد",
+        "eligible": false,
+        "warning": false,
+        "attribution_required": false
+      },
+      "score": {
+        "total": 59.77,
+        "parts": {
+          "license": 0.0,
+          "activity": 100.0,
+          "community": 46.3,
+          "docs": 70.0,
+          "health": 100.0
+        }
+      }
+    },
+    {
+      "source": "npm",
+      "query": "developer tools cli",
+      "full_name": "@wix/ricos-editor-elements",
+      "name": "@wix/ricos-editor-elements",
+      "url": "https://www.npmjs.com/package/@wix/ricos-editor-elements",
+      "description": "This project was bootstrapped with [Create Wix App](https://www.npmjs.com/package/@wix/create-app). Read more about it in the [Wix CLI for Apps documentation](https://dev.wix.com/docs/build-apps/developer-tools/cli/get-started/about-the-wix-cli-for-apps).",
+      "stars": null,
+      "forks": null,
+      "open_issues": null,
+      "downloads_weekly": 851,
+      "search_score": 145.30905,
+      "quality": 1,
+      "maintenance": 1,
+      "license_spdx": null,
+      "pushed_at": "2026-11-20T12:14:52.787Z",
+      "created_at": null,
+      "language": "JavaScript",
+      "topics": [],
+      "homepage": null,
+      "default_branch": "main",
+      "archived": false,
+      "owner": null,
+      "version": "11.28.1",
+      "gate": {
+        "spdx": null,
+        "source": "none",
+        "status": "unknown",
+        "decision": "مستبعد (رخصة مجهولة)",
+        "eligible": false,
+        "warning": false,
+        "attribution_required": false
+      },
+      "score": {
+        "total": 58.67,
+        "parts": {
+          "license": 0.0,
+          "activity": 100.0,
+          "community": 70.9,
+          "docs": 30.0,
+          "health": 100.0
+        }
+      }
+    }
+  ],
+  "gate_stats": {
+    "allow": 54,
+    "conditional": 0,
+    "deny": 3,
+    "unknown": 1
+  },
+  "platforms": [
+    {
+      "platform": "gitlab",
+      "status": "unreachable",
+      "detail": "غير متاحة من شبكة التشغيل الحالية (URLError) — يُفعَّل تلقائياً عند الإتاحة"
+    },
+    {
+      "platform": "bitbucket",
+      "status": "unreachable",
+      "detail": "غير متاحة من شبكة التشغيل الحالية (URLError) — يُفعَّل تلقائياً عند الإتاحة"
+    },
+    {
+      "platform": "github",
+      "status": "reachable",
+      "detail": "متاحة — تعمل"
+    },
+    {
+      "platform": "npm",
+      "status": "reachable",
+      "detail": "متاحة — تعمل"
+    }
+  ],
+  "errors": [],
+  "forged": [
+    {
+      "full_name": "affaan-m/ECC",
+      "status": "forged",
+      "path": "experiments/affaan-m__ECC",
+      "signals": {
+        "file_count": 4951,
+        "languages": [
+          "javascript",
+          "python",
+          "typescript"
+        ],
+        "manifests": [
+          "python",
+          "node",
+          "rust",
+          "ruby"
+        ],
+        "tests": true,
+        "ci": true,
+        "docker": true,
+        "readme_bytes": 118458,
+        "license_file": true,
+        "docs": true,
+        "contributing": true
+      },
+      "ideas": 9,
+      "card": "experiments/affaan-m__ECC/PROTOTYPE.md"
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "status": "forged",
+      "path": "experiments/DietrichGebert__ponytail",
+      "signals": {
+        "file_count": 218,
+        "languages": [
+          "javascript",
+          "python",
+          "typescript"
+        ],
+        "manifests": [
+          "node"
+        ],
+        "tests": true,
+        "ci": true,
+        "docker": false,
+        "readme_bytes": 15073,
+        "license_file": true,
+        "docs": true,
+        "contributing": true
+      },
+      "ideas": 6,
+      "card": "experiments/DietrichGebert__ponytail/PROTOTYPE.md"
+    },
+    {
+      "full_name": "Graphify-Labs/graphify",
+      "status": "forged",
+      "path": "experiments/Graphify-Labs__graphify",
+      "signals": {
+        "file_count": 1285,
+        "languages": [
+          "python",
+          "typescript",
+          "csharp"
+        ],
+        "manifests": [
+          "python",
+          "node",
+          "rust"
+        ],
+        "tests": true,
+        "ci": true,
+        "docker": true,
+        "readme_bytes": 43102,
+        "license_file": true,
+        "docs": true,
+        "contributing": true
+      },
+      "ideas": 9,
+      "card": "experiments/Graphify-Labs__graphify/PROTOTYPE.md"
+    }
+  ]
+}
